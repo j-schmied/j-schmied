@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, visitor 👋
 
-<!--
-**j-schmied/j-schmied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Jannik, a 23 y/o Master's Student in the field of Computer Science. 
 
 - 🔭 I’m currently working on ...
+  - My Master's Thesis 🎓
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  - Rust ⚙️
+  - Digital Forensics 🔍
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Python 🐍
+  - Car Hacking 🚓
+  - ML/AI/Data Analysis 📈
+- 📫 How to reach me:
+  - <a href="mailto:jannik.schmied+ghcontact@pm.me">Send me an Email!</a>
+
+### Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-schmied&hide_border=true&layout=compact" align="center" /></div>  
