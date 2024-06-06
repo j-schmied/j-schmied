@@ -1,9 +1,9 @@
 ### Hello, visitor 👋
 
-I am Jannik, a 23 y/o Master's Student in the field of Computer Science. 
+I am Jannik, a 24 y/o Digital Forensics Consultant at <a href="https://www.bdosecurity.de">BDO Cyber Security GmbH</a>.
 
 - 🔭 I’m currently working on ...
-  - My Master's Thesis 🎓
+  - The VELK Stack (Velociraptor+Elastic+Logstash+Kibana)
 - 🌱 I’m currently learning ...
   - Rust ⚙️
   - Digital Forensics 🔍
