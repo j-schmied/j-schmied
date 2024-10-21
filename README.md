@@ -17,6 +17,4 @@ I am Jannik, a 24 y/o Digital Forensics Consultant at <a href="https://www.bdose
 
 ### Stats
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=476836" style='border:none;'></iframe>
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-schmied&hide_border=true&layout=compact" align="center" /></div>  
