@@ -1,10 +1,9 @@
 ### Hello, visitor 👋
 
-I am Jannik, a 24 y/o Digital Forensics Consultant at <a href="https://www.bdosecurity.de">BDO Cyber Security GmbH</a>.
+I am Jannik, a 25 y/o Digital Forensics Consultant working at <a href="https://www.bdosecurity.de">BDO Cyber Security GmbH</a>.
 
 - 🔭 I’m currently working on ...
   - The VELK Stack (Velociraptor+Elastic+Logstash+Kibana)
-  - CompTIA CySA+ Certification
 - 🌱 I’m currently learning ...
   - Digital Forensics 🔍
   - Rust ⚙️
@@ -17,4 +16,4 @@ I am Jannik, a 24 y/o Digital Forensics Consultant at <a href="https://www.bdose
 
 ### Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-schmied&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-schmied&hide_border=true&layout=compact" align="center" /></div>
